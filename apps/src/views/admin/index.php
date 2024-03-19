@@ -1,4 +1,4 @@
-<?php include_once ".header.php"; ?>
+<?php include_once "../../layouts/partials/header.php"; ?>
 
 <div class="container flex h-full mx-auto mt-4">
     <!-- Content -->
