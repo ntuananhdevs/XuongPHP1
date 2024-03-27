@@ -62,5 +62,8 @@
                     </li>
                 </ul>
             </div>
+            <div class="items-center justify-between hidden w-full md:flex md:w-auto md:order-2">
+                <img class="w-10 h-10 rounded-full" src="../../../public/assets/avatar/avatar-default.png" alt="Rounded avatar">
+            </div>
         </div>
     </nav>
